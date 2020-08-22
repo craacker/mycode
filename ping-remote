@@ -1,0 +1,6 @@
+#!#/bin/bash
+# Auther: jarin
+# Date: 08/08/2020
+#Description: This script will ping remote host and notify 
+# Modified: 08/08/2020
+ping -c 1 8.8.8.8
